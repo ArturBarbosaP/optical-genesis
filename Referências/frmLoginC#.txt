@@ -1,0 +1,20 @@
+/*if (txt_senha.Text != string.Empty)
+            {
+                if (tgb_senha.Checked)
+                {
+                    txt_senha.PasswordChar = false;
+                }
+                else
+                {
+                    txt_senha.PasswordChar = true;
+                }
+            }
+            else
+            {
+                txt_senha.PasswordChar = false;
+            }
+
+            Mensagem de erro
+            lbl_erro.Visible = true;
+            System.Media.SystemSounds.Hand.Play();
+            */

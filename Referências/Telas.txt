@@ -1,0 +1,10 @@
+Login -> Lista de Produtos -> Cadastro de Produtos
+ou    -> Lista de Vendas -> Cadastro de Clientes
+			 -> Cadastro de Vendas
+ou(gerente)-> Lista de Funcionários + todas as telas -> Cadastro de Funcionários
+
+
+pós sprint 2
+
+
+Vendas -> Cadastrar Vendas -> pegar id do funcionário direto, tela pra escolher ou cadastrar cliente, abrir tela para escolher produtos, cadastrar venda (inserir na venda) e inserir produtos na lista
